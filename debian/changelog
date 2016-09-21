@@ -1,0 +1,5 @@
+docker-compose (1.8.0.1) unstable; urgency=low
+
+  * Package up upstream release 1.8.0
+
+ -- Stuart Longland <stuartl@vrt.com.au>  Wed, 21 Sep 2016 03:12:45 +0000
