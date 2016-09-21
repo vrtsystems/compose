@@ -1,3 +1,8 @@
+docker-compose (1.8.0.2) unstable; urgency=low
+  * Use python-docker which is the offical name of the package made
+    from the docker-py repository upstream.
+ -- Stuart Longland <stuartl@vrt.com.au>  Thu, 22 Sep 2016 09:54:36 +1000
+
 docker-compose (1.8.0.1) unstable; urgency=low
 
   * Package up upstream release 1.8.0
