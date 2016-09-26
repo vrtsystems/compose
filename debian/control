@@ -8,7 +8,7 @@ Standards-Version: 3.9.1
 
 Package: docker-compose
 Architecture: all
-Depends: ${misc:Depends}, ${python:Depends} python-requests (>=2.6.1),
+Depends: ${misc:Depends}, ${python:Depends}, python-requests (>=2.6.1),
  python-requests (<<2.8), python-enum34, python-yaml, python-cached-property,
  python-texttable, python (>= 2.7~), python-docker, python-jsonschema,
  python-websocket, python-docopt, python (<< 2.8), python-six, python-dockerpty
